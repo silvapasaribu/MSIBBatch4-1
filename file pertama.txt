@@ -1,0 +1,11 @@
+Rincian Materi Kampus Merdeka Batch 4
+- HTML dan CSS
+- Javascript
+- Github
+- PHP
+- MySQL
+- Laravel
+
+menambahkan file kedalam github disebut dengan adding (git add)
+selanjutnya menandai file yang disebut commit (git commit)
+setelah itu upload file yang sebut push (git push)
