@@ -11,3 +11,4 @@ Rincian Materi Kampus Merdeka Batch 4
 menambahkan file kedalam github disebut dengan adding (git add)
 selanjutnya menandai file yang disebut commit (git commit)
 setelah itu upload file yang sebut push (git push)
+saya menambahka baris baru
